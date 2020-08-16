@@ -88,7 +88,7 @@ app.use(validateToken);
 
 // process routes
 const dataRouter = require('./routes/data/controller');
-app.use('/readings', dataRouter);
+app.use('/observation', dataRouter);
 
 
 // define the app as a cloud funtion called APIv1 (referenced in firebase.json)
