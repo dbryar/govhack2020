@@ -45,4 +45,5 @@ Sadly, 54 hours is nowhere near enough to fully explore the data model, but we c
 
 While I would never condone the use of commercial video in such an event as Govhack, I would encourage those planning and preparing for fire safety to have a look at the commercial video Fireball have put together as it highlights many of the issues identified in this presentation.
 
-()[https://fireballit.com/fbvideo/fif_lq.mp4]
+
+https://fireballit.com/fbvideo/fif_lq.mp4
